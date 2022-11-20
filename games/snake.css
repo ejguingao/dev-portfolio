@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+  body {
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  canvas {
+    border: 1px solid white;
+  }
+
+a 
+{
+  position: absolute;
+  font-size: 25px;
+  top: 82%;
+  text-decoration: none;
+}
+
+.con
+{
+  color: white;
+  position: absolute;
+  top: 90px;
+}
